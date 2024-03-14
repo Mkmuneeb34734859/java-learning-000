@@ -1,2 +1,2 @@
-# java learning 000
+# learn javascript 00
  
